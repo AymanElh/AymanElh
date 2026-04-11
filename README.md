@@ -1,10 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&random=false&width=750&height=80&lines=Hi+there%2C+I'm+Ayman+👋;Full+Stack+Web+Developer;Angular+%2B+Spring+Boot+Developer;Building+Scalable+Web+Applications;Always+Learning+New+Things+🚀" alt="Typing SVG" />
-</div>
-
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AymanElh&style=for-the-badge&color=0969DA" alt="Profile views" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&random=false&width=750&height=80&lines=Hi+there%2C+I'm+Ayman+👋;Software+Engineer;Java+Spring+Boot+Developer;DevOps+%26+Cloud;Building+Scalable+Applications;Always+Learning+New+Things+🚀" alt="Typing SVG" />
 </div>
 
 ---
@@ -13,82 +8,95 @@
 
 ```java
 public class Developer {
-    private String name = "Ayman EL HAMIOUI";
-    private String location = "Morocco 🇲🇦";
-    private String education = "YouCode - UM6P";
-    private String role = "Full Stack Web Developer";
-    private String[] languages = {"Arabic", "French", "English"};
+    private String name        = "Ayman EL HAMIOUI";
+    private String location    = "Morocco 🇲🇦";
+    private String role        = "Software Engineer";
     private String[] techStack = {"Java", "Spring Boot", "PHP", "Laravel", "React"};
-    private String currentFocus = "Building scalable web applications with Spring Boot";
-    private String funFact = "I debug with System.out.println() and I'm proud of it! 😄";
+    private String currentFocus = "Building scalable applications with Spring Boot";
+    private String funFact     = "I debug with System.out.println() and I'm proud of it! 😄";
 }
 ```
 
-🎓 Currently studying **Full Stack Web Development** at **YouCode - UM6P**  
-💼 Passionate about building **clean, scalable, and user-friendly** web applications  
-🌱 Always exploring new technologies and best practices  
-🎯 2025 Goal: Master **Spring Boot** and **Cloud Technologies (AWS)**  
+💼 Passionate about building **clean, scalable, and user-friendly** applications \
+🌱 Always exploring new technologies and best practices \
+🎯 **2026 Goal:** Master **Spring Boot** and **DevOps** (AWS, Kubernetes, CI/CD) \
 ⚡ Fun fact: I love solving complex problems with elegant solutions!
 
 ---
 
 ## 🛠️ Technologies & Tools
 
-### **Frontend Development**
+### Backend
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,angular,bootstrap,tailwind" alt="Frontend Skills" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Keycloak-282C34?style=for-the-badge&logo=keycloak&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
 </div>
 
-### **Backend Development**
+### Frontend
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,java,spring,nodejs,express,graphql" alt="Backend Skills" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </div>
 
-### **Databases**
+### Databases
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" alt="Database Skills" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 </div>
 
-### **DevOps & Tools**
+### DevOps & Cloud
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=docker,aws,git,github,postman,vscode,phpstorm,linux,ubuntu,bash,notion,figma" alt="DevOps & Tools" />
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
 </div>
 
-### **Programming Languages**
+### Tools
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java,php,js,typescript,python,c,bash" alt="Programming Languages" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </div>
 
 ---
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
-| Project | Description | Technologies | Links |
-|---------|-------------|--------------|-------|
-| 🏥 **Digital Hospital** | Hospital management system with patient & doctor management | Java, JEE, JSP, Servlets, PostgreSQL | [Repo](https://github.com/AymanElh/DigitalHospital) |
-| 🎓 **E-Learning Platform** | Full-stack platform with role-based authentication | React, Laravel, REST API | [Repo](https://github.com/AymanElh) |
-| 💼 **HRMS System** | HR management system for employees and leave tracking | Laravel, PostgreSQL | [Repo](https://github.com/AymanElh)  |
-| 🏋️ **Fitness & Nutrition** | Workout planning and nutrition tracking app | Laravel, TailwindCSS | [Repo](https://github.com/AymanElh) |
-
-</div>
+| Project | Stack | Description | Repo |
+|--------|-------|-------------|------|
+| **ConferenceHub** | Spring Boot 4 · Kafka · Keycloak · Resilience4j · Zipkin · Jenkins | 6-service microservices platform — async event pipelines, circuit breaker, distributed tracing, CI/CD | [→](https://github.com/AymanElh/ConferenceHub) |
+| **SupplyChainX** | Spring Boot · Spring Security · Angular · PostgreSQL · Java 21 | Supply chain system — secured REST API, role-based access, Angular front-end, Docker | [→](https://github.com/AymanElh/SupplyChain) |
+| **Fitness & Nutrition** | Laravel · React · TypeScript · PostgreSQL | Workout & nutrition tracker — admin dashboard, RBAC, REST API | [→](https://github.com/AymanElh/Fitness-Tracker) |
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AymanElh&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AymanElh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" height="180" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AymanElh&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AymanElh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=6&hide=html,css,c" height="175" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AymanElh&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AymanElh&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AymanElh&theme=tokyonight&hide_border=true&background=0D1117" />
 </div>
 
 ---
@@ -96,42 +104,7 @@ public class Developer {
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AymanElh&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Contribution Graph" />
-</div>
-
----
-
-## 📚 Currently Learning
-
-- 🔥 Spring Boot & Spring Data JPA
-- ☁️ AWS Cloud Services (EC2, S3, Lambda)
-- 🐳 Docker & Kubernetes
-- 📱 Mobile Development with React Native
-
----
-
-## 📜 Certifications
-
-- 🎓 **CS50x** - Introduction to Computer Science (Harvard University)
-- 🎓 **CS50P** - Introduction to Programming with Python (Harvard University)
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/ayman-elhamioui/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/AymanElh">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:aymanelhamioui2003@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://twitter.com/aymanelh01">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AymanElh&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
 </div>
 
 ---
@@ -139,13 +112,30 @@ public class Developer {
 ## 💡 Random Dev Quote
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/ayman-elhamioui/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://aymanelhamioui.me">
+    <img src="https://img.shields.io/badge/Portfolio-185FA5?style=for-the-badge&logo=safari&logoColor=white" />
+  </a>
+  <a href="mailto:aymanelhamiouii@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/AymanElh">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0969DA&height=100&section=footer" alt="Footer Wave" />
-  <br>
-  <sub>⭐️ From [AymanElh](https://github.com/AymanElh) | Last updated: January 2025</sub>
+  <sub>⭐️ From <a href="https://github.com/AymanElh">AymanElh</a> · updated April 2026</sub>
 </div>
